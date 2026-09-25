@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+test-okdriver.db
+node_modules/
+dist/
+work/
+work-python/
+.pytest_cache/
+.ruff_cache/
